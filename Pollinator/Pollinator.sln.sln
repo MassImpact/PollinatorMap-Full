@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pollinator.Common", "..\Pollinator.Common\Pollinator.Common.csproj", "{D877D195-4BC8-4D2C-83B2-D8A9FC169D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pollinator.DataAccess", "..\Pollinator.DataAccess\Pollinator.DataAccess.csproj", "{C7E4B707-0E50-4491-8C3B-7B18DB8FBCB3}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Pollinator", ".", "{C697759E-FD39-4B48-B56B-098CBCA51578}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{d877d195-4bc8-4d2c-83b2-d8a9fc169d45}|Pollinator.Common.dll;{C7E4B707-0E50-4491-8C3B-7B18DB8FBCB3}|Pollinator.DataAccess.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Pollinator"
+		Debug.AspNetCompiler.PhysicalPath = "..\Pollinator\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Pollinator\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Pollinator"
+		Release.AspNetCompiler.PhysicalPath = "..\Pollinator\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Pollinator\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "46279"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D877D195-4BC8-4D2C-83B2-D8A9FC169D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D877D195-4BC8-4D2C-83B2-D8A9FC169D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D877D195-4BC8-4D2C-83B2-D8A9FC169D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D877D195-4BC8-4D2C-83B2-D8A9FC169D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E4B707-0E50-4491-8C3B-7B18DB8FBCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E4B707-0E50-4491-8C3B-7B18DB8FBCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E4B707-0E50-4491-8C3B-7B18DB8FBCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E4B707-0E50-4491-8C3B-7B18DB8FBCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C697759E-FD39-4B48-B56B-098CBCA51578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C697759E-FD39-4B48-B56B-098CBCA51578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C697759E-FD39-4B48-B56B-098CBCA51578}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C697759E-FD39-4B48-B56B-098CBCA51578}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

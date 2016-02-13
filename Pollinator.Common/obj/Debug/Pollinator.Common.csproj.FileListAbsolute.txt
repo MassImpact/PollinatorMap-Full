@@ -1,0 +1,54 @@
+E:\1.Working\1.Evizi\1.SourceCode\Pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Pollinator.Common.dll
+E:\1.Working\1.Evizi\1.SourceCode\Pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Pollinator.Common.pdb
+E:\1.Working\1.Evizi\1.SourceCode\Pollinator\02_Implementation\Source\Pollinator.Common\obj\Debug\Pollinator.Common.dll
+E:\1.Working\1.Evizi\1.SourceCode\Pollinator\02_Implementation\Source\Pollinator.Common\obj\Debug\Pollinator.Common.pdb
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Pollinator.Common.dll.config
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Pollinator.Common.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Pollinator.Common.pdb
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\log4net.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Pollinator.DataAccess.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\System.Net.Http.Extensions.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\System.Net.Http.Primitives.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Zlib.Portable.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\EntityFramework.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Pollinator.DataAccess.pdb
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\log4net.xml
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\System.Net.Http.Extensions.xml
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\System.Net.Http.Primitives.xml
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\Zlib.Portable.pdb
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\bin\Debug\EntityFramework.xml
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\obj\Debug\Pollinator.Common.csproj.App.config
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\obj\Debug\Pollinator.Common.csprojResolveAssemblyReference.cache
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\obj\Debug\Pollinator.Common.dll
+D:\Working\pollinator\02_Implementation\Source\Pollinator.Common\obj\Debug\Pollinator.Common.pdb
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Pollinator.Common.dll.config
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Pollinator.Common.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Pollinator.Common.pdb
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\log4net.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Pollinator.DataAccess.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\System.Net.Http.Extensions.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\System.Net.Http.Primitives.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Zlib.Portable.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\EntityFramework.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Pollinator.DataAccess.pdb
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\log4net.xml
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\System.Net.Http.Extensions.xml
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\System.Net.Http.Primitives.xml
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\Zlib.Portable.pdb
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\bin\Debug\EntityFramework.xml
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\obj\Debug\Pollinator.Common.csproj.App.config
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\obj\Debug\Pollinator.Common.csprojResolveAssemblyReference.cache
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\obj\Debug\Pollinator.Common.dll
+D:\Working\pollinator\06_Upgrade\6_1_Pollinator2\FrontEnd Implementation\Pollinator.Common\obj\Debug\Pollinator.Common.pdb

@@ -1,0 +1,2346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<settings>
+<application/>
+<guide/>
+<toolbars>
+<main-toolbar>true</main-toolbar>
+<mail-toolbar>true</mail-toolbar>
+<view-toolbar>true</view-toolbar>
+<button-toolbar>true</button-toolbar>
+</toolbars>
+<view>
+<view-name>Create WBS</view-name>
+<column>
+<column-name>Baseline Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Total Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Name</column-name>
+<column-visible>true</column-visible>
+<column-order>0</column-order>
+<column-width>800</column-width>
+</column>
+<column>
+<column-name>Task Mode</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>SV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Subproject Read Only</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Stop</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Rollup</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resume</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Names</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Initials</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Group</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Regular Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Recurring</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Priority</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Physical Percent Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overallocated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Number</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Level</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Objects</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Notes</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Milestone</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Marked</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Linked Fields</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Delay</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Can Split</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Level Assignments</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Ignore Resource Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink SubAddress</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink Address</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hide Bar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Free Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Fixed Cost Accrual</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Fixed Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>External Task</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Estimated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Effort Driven</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Deadline</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>CV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Critical</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Created</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Rate Table</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Contact</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Date</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ACWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Active</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Work Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Indicators</column-name>
+<column-visible>false</column-visible>
+</column>
+<vertical-split>
+<split-orientation>left</split-orientation>
+</vertical-split>
+</view>
+<view>
+<view-name>Schedule tasks</view-name>
+<column>
+<column-name>Baseline Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Total Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Name</column-name>
+<column-visible>true</column-visible>
+<column-order>2</column-order>
+<column-width>448</column-width>
+</column>
+<column>
+<column-name>Task Mode</column-name>
+<column-visible>true</column-visible>
+<column-order>1</column-order>
+<column-width>56</column-width>
+</column>
+<column>
+<column-name>SV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Subproject Read Only</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Stop</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start</column-name>
+<column-visible>true</column-visible>
+<column-order>4</column-order>
+<column-width>91</column-width>
+</column>
+<column>
+<column-name>Rollup</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resume</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Names</column-name>
+<column-visible>true</column-visible>
+<column-order>6</column-order>
+<column-width>119</column-width>
+</column>
+<column>
+<column-name>Resource Initials</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Group</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Regular Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Recurring</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Priority</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Predecessors</column-name>
+<column-visible>true</column-visible>
+<column-order>7</column-order>
+<column-width>140</column-width>
+</column>
+<column>
+<column-name>Physical Percent Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overallocated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Number</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Level</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Objects</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Notes</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Milestone</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Marked</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Linked Fields</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Delay</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Can Split</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Level Assignments</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Ignore Resource Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink SubAddress</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink Address</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hide Bar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Free Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Fixed Cost Accrual</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Fixed Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish</column-name>
+<column-visible>true</column-visible>
+<column-order>5</column-order>
+<column-width>91</column-width>
+</column>
+<column>
+<column-name>External Task</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Estimated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Effort Driven</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration</column-name>
+<column-visible>true</column-visible>
+<column-order>3</column-order>
+<column-width>77</column-width>
+</column>
+<column>
+<column-name>Deadline</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>CV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Critical</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Created</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Rate Table</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Contact</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Date</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ACWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Active</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Work Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Indicators</column-name>
+<column-visible>true</column-visible>
+<column-order>0</column-order>
+<column-width>42</column-width>
+</column>
+<bar-colors>
+<task-color>-4473857</task-color>
+<phase-color>-12698050</phase-color>
+<milestone-color>-16776961</milestone-color>
+<project-color>-8355712</project-color>
+<baseline-color>-103</baseline-color>
+<task-critical-color>-27757</task-critical-color>
+<completion-color>-16777216</completion-color>
+</bar-colors>
+<vertical-split>
+<split-orientation>left</split-orientation>
+</vertical-split>
+<leveling-split>
+<split-orientation>left</split-orientation>
+</leveling-split>
+<horizontal-split>
+<split-orientation>center</split-orientation>
+<split-position>1171</split-position>
+</horizontal-split>
+</view>
+<view>
+<view-name>Human &amp; Equipment</view-name>
+<column>
+<column-name>Material Label</column-name>
+<column-visible>true</column-visible>
+<column-order>9</column-order>
+<column-width>77</column-width>
+</column>
+<column>
+<column-name>Code</column-name>
+<column-visible>true</column-visible>
+<column-order>8</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>Phone no.</column-name>
+<column-visible>true</column-visible>
+<column-order>7</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>Email</column-name>
+<column-visible>true</column-visible>
+<column-order>6</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>MaxUnits</column-name>
+<column-visible>true</column-visible>
+<column-order>5</column-order>
+<column-width>100</column-width>
+</column>
+<column>
+<column-name>Base Calendar</column-name>
+<column-visible>true</column-visible>
+<column-order>4</column-order>
+<column-width>150</column-width>
+</column>
+<column>
+<column-name>Ovt. Rate</column-name>
+<column-visible>true</column-visible>
+<column-order>3</column-order>
+<column-width>100</column-width>
+</column>
+<column>
+<column-name>Std. Rate</column-name>
+<column-visible>true</column-visible>
+<column-order>2</column-order>
+<column-width>100</column-width>
+</column>
+<column>
+<column-name>Type</column-name>
+<column-visible>true</column-visible>
+<column-order>1</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>Resource Name</column-name>
+<column-visible>true</column-visible>
+<column-order>0</column-order>
+<column-width>250</column-width>
+</column>
+<vertical-split>
+<split-orientation>left</split-orientation>
+</vertical-split>
+</view>
+<view>
+<view-name>Level resources</view-name>
+<column>
+<column-name>Baseline Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Total Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Name</column-name>
+<column-visible>true</column-visible>
+<column-order>2</column-order>
+<column-width>150</column-width>
+</column>
+<column>
+<column-name>Task Mode</column-name>
+<column-visible>true</column-visible>
+<column-order>1</column-order>
+<column-width>30</column-width>
+</column>
+<column>
+<column-name>SV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Subproject Read Only</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Stop</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start</column-name>
+<column-visible>true</column-visible>
+<column-order>4</column-order>
+<column-width>150</column-width>
+</column>
+<column>
+<column-name>Rollup</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resume</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Names</column-name>
+<column-visible>true</column-visible>
+<column-order>7</column-order>
+<column-width>91</column-width>
+</column>
+<column>
+<column-name>Resource Initials</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Group</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Regular Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Recurring</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Priority</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Predecessors</column-name>
+<column-visible>true</column-visible>
+<column-order>6</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>Physical Percent Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overallocated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Number</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Level</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Objects</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Notes</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Milestone</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Marked</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Linked Fields</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Delay</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Can Split</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Level Assignments</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Ignore Resource Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink SubAddress</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink Address</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hide Bar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Free Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Fixed Cost Accrual</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Fixed Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish</column-name>
+<column-visible>true</column-visible>
+<column-order>5</column-order>
+<column-width>150</column-width>
+</column>
+<column>
+<column-name>External Task</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Estimated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Effort Driven</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration</column-name>
+<column-visible>true</column-visible>
+<column-order>3</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>Deadline</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>CV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Critical</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Created</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Rate Table</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Contact</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Date</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ACWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Active</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Work Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Indicators</column-name>
+<column-visible>true</column-visible>
+<column-order>0</column-order>
+<column-width>30</column-width>
+</column>
+<bar-colors>
+<task-color>-4473857</task-color>
+<phase-color>-12698050</phase-color>
+<milestone-color>-16776961</milestone-color>
+<project-color>-8355712</project-color>
+<baseline-color>-103</baseline-color>
+<task-critical-color>-27757</task-critical-color>
+<completion-color>-16777216</completion-color>
+</bar-colors>
+<vertical-split>
+<split-orientation>left</split-orientation>
+</vertical-split>
+<leveling-split>
+<split-orientation>left</split-orientation>
+</leveling-split>
+<horizontal-split>
+<split-orientation>center</split-orientation>
+<split-position>330</split-position>
+</horizontal-split>
+</view>
+<view>
+<view-name>Define additional costs for tasks</view-name>
+<column>
+<column-name>Baseline Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work</column-name>
+<column-visible>true</column-visible>
+<column-order>5</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>WBS Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Total Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Name</column-name>
+<column-visible>true</column-visible>
+<column-order>2</column-order>
+<column-width>150</column-width>
+</column>
+<column>
+<column-name>Task Mode</column-name>
+<column-visible>true</column-visible>
+<column-order>1</column-order>
+<column-width>30</column-width>
+</column>
+<column>
+<column-name>SV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Subproject Read Only</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Stop</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Rollup</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resume</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Names</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Initials</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Group</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Regular Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Recurring</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Priority</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Physical Percent Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overallocated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Number</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Level</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Objects</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Notes</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Milestone</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Marked</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Linked Fields</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Delay</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Can Split</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Level Assignments</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Ignore Resource Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink SubAddress</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink Address</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hide Bar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Free Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Fixed Cost Accrual</column-name>
+<column-visible>true</column-visible>
+<column-order>4</column-order>
+<column-width>100</column-width>
+</column>
+<column>
+<column-name>Fixed Cost</column-name>
+<column-visible>true</column-visible>
+<column-order>3</column-order>
+<column-width>100</column-width>
+</column>
+<column>
+<column-name>Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>External Task</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Estimated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Effort Driven</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Deadline</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>CV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Critical</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Created</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Rate Table</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost</column-name>
+<column-visible>true</column-visible>
+<column-order>6</column-order>
+<column-width>100</column-width>
+</column>
+<column>
+<column-name>Contact</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Date</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ACWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Active</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Work Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Indicators</column-name>
+<column-visible>true</column-visible>
+<column-order>0</column-order>
+<column-width>30</column-width>
+</column>
+<vertical-split>
+<split-orientation>left</split-orientation>
+</vertical-split>
+<horizontal-split>
+<split-orientation>center</split-orientation>
+<split-position>330</split-position>
+</horizontal-split>
+</view>
+<view>
+<view-name>Update tasks completion</view-name>
+<column>
+<column-name>Baseline Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Baseline Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>WBS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Predecessors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Unique ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Total Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Name</column-name>
+<column-visible>true</column-visible>
+<column-order>2</column-order>
+<column-width>448</column-width>
+</column>
+<column>
+<column-name>Task Mode</column-name>
+<column-visible>true</column-visible>
+<column-order>1</column-order>
+<column-width>56</column-width>
+</column>
+<column>
+<column-name>SV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Successors</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Subproject Read Only</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Stop</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Start</column-name>
+<column-visible>true</column-visible>
+<column-order>4</column-order>
+<column-width>91</column-width>
+</column>
+<column>
+<column-name>Rollup</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resume</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Names</column-name>
+<column-visible>true</column-visible>
+<column-order>6</column-order>
+<column-width>119</column-width>
+</column>
+<column>
+<column-name>Resource Initials</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Resource Group</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Remaining Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Regular Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Recurring</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Priority</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Preleveled Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Predecessors</column-name>
+<column-visible>true</column-visible>
+<column-order>7</column-order>
+<column-width>140</column-width>
+</column>
+<column>
+<column-name>Physical Percent Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Overallocated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Number</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Outline Level</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Objects</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Notes</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Milestone</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Marked</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Linked Fields</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Delay</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Leveling Can Split</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Level Assignments</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Late Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Ignore Resource Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ID</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink SubAddress</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink Address</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hyperlink</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Hide Bar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Free Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish Slack</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Fixed Cost Accrual</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Fixed Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Finish</column-name>
+<column-visible>true</column-visible>
+<column-order>5</column-order>
+<column-width>91</column-width>
+</column>
+<column>
+<column-name>External Task</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Estimated</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Effort Driven</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Early Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Duration</column-name>
+<column-visible>true</column-visible>
+<column-order>3</column-order>
+<column-width>77</column-width>
+</column>
+<column>
+<column-name>Deadline</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>CV</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Critical</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Created</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Variance</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost Rate Table</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Contact</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Type</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Constraint Date</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Task Calendar</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWS</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>BCWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>ACWP</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work Protected</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Overtime Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Cost</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Work</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Finish</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Start</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Actual Duration</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Active</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Work Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>% Complete</column-name>
+<column-visible>false</column-visible>
+</column>
+<column>
+<column-name>Indicators</column-name>
+<column-visible>true</column-visible>
+<column-order>0</column-order>
+<column-width>42</column-width>
+</column>
+<vertical-split>
+<split-orientation>left</split-orientation>
+</vertical-split>
+<leveling-split>
+<split-orientation>left</split-orientation>
+</leveling-split>
+<horizontal-split>
+<split-orientation>center</split-orientation>
+<split-position>1171</split-position>
+</horizontal-split>
+</view>
+<view>
+<view-name>Work &amp; Cost tracking</view-name>
+<column>
+<column-name>Overtime Cost</column-name>
+<column-visible>true</column-visible>
+<column-order>10</column-order>
+<column-width>80</column-width>
+</column>
+<column>
+<column-name>Standard Cost</column-name>
+<column-visible>true</column-visible>
+<column-order>9</column-order>
+<column-width>80</column-width>
+</column>
+<column>
+<column-name>Remaining Cost</column-name>
+<column-visible>true</column-visible>
+<column-order>8</column-order>
+<column-width>85</column-width>
+</column>
+<column>
+<column-name>Actual Cost</column-name>
+<column-visible>true</column-visible>
+<column-order>7</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>Overtime Work</column-name>
+<column-visible>true</column-visible>
+<column-order>6</column-order>
+<column-width>83</column-width>
+</column>
+<column>
+<column-name>Standard Work</column-name>
+<column-visible>true</column-visible>
+<column-order>5</column-order>
+<column-width>83</column-width>
+</column>
+<column>
+<column-name>Remaining Work</column-name>
+<column-visible>true</column-visible>
+<column-order>4</column-order>
+<column-width>88</column-width>
+</column>
+<column>
+<column-name>Actual Work</column-name>
+<column-visible>true</column-visible>
+<column-order>3</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>Cost</column-name>
+<column-visible>true</column-visible>
+<column-order>2</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>Work</column-name>
+<column-visible>true</column-visible>
+<column-order>1</column-order>
+<column-width>75</column-width>
+</column>
+<column>
+<column-name>Resource Name</column-name>
+<column-visible>true</column-visible>
+<column-order>0</column-order>
+<column-width>200</column-width>
+</column>
+<vertical-split>
+<split-orientation>left</split-orientation>
+</vertical-split>
+<horizontal-split>
+<split-orientation>center</split-orientation>
+<split-position>330</split-position>
+</horizontal-split>
+</view>
+<view>
+<view-name>Team Planner</view-name>
+<column>
+<column-name>Resource Name</column-name>
+<column-visible>true</column-visible>
+<column-order>0</column-order>
+<column-width>273</column-width>
+</column>
+<vertical-split>
+<split-orientation>left</split-orientation>
+</vertical-split>
+<horizontal-split>
+<split-orientation>center</split-orientation>
+<split-position>330</split-position>
+</horizontal-split>
+</view>
+</settings>
